@@ -1,0 +1,16 @@
+c:\users\david\documents\visual studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\bin\Debug\Zero2Ten.ServiceAnalysisTool.dll
+c:\users\david\documents\visual studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\bin\Debug\Zero2Ten.ServiceAnalysisTool.pdb
+c:\users\david\documents\visual studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\david\documents\visual studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\david\documents\visual studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\obj\Debug\Zero2Ten.ServiceAnalysisTool.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\obj\Debug\Zero2Ten.ServiceAnalysisTool.dll
+c:\users\david\documents\visual studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\obj\Debug\Zero2Ten.ServiceAnalysisTool.pdb
+C:\Users\David\Documents\Visual Studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\bin\Debug\Microsoft.Xrm.Portal.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\bin\Debug\AntiXssLibrary.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\David\Documents\Visual Studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\bin\Debug\Microsoft.Xrm.Client.xml
+C:\Users\David\Documents\Visual Studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\bin\Debug\Microsoft.Xrm.Portal.xml
+C:\Users\David\Documents\Visual Studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\David\Documents\Visual Studio 2012\Projects\Zero2Ten.ServiceAnalysisTool\Zero2Ten.ServiceAnalysisTool\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
